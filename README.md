@@ -21,7 +21,7 @@ Future Improvements
 - Store scores using localStorage
 - Make it mobile-friendly with media queries
 
- Author
+ Author :
 Rajeev Reddy
 Intern at Edunet Foundation
 Focused on front-end development, clean UI, and practical learning tools
